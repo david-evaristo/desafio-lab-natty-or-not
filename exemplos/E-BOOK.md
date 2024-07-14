@@ -1,20 +1,21 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# IA Generativas: Impacto no nosso dia a dia 🌌
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este e-book de 5 páginas. Descubra como as IAs Generativas estão revolucionando nosso dia a dia, criando arte, música e histórias, e imagine seu impacto incrível no futuro, com um toque divertido.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- Ferramenta **[Gamma](https://gamma.app)** para edição.
+- Ferramenta **[Google Slides](https://docs.google.com/presentation/u/1/)** para apresentar o e-book.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Com o "ChatGPT" foi revisado o conteudo do ebook, ajudando a complementar o tema e refinar o texto. Para criação das imagens usei o "Leonardo AI" e para montar a apresentação utilizei o "Gamma" ajudando no designer da apresentação.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+Esse e-book aborda de forma simples e descontraida, o tema de como as IAs podem impactar no nosso dia a dia.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://docs.google.com/presentation/d/1hWszISQ9Q0ypUROlUV87kgZINHXx1FGsE5BQ9UimeIY/edit#slide=id.p)
 
 ## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+As IAs Generativas estão revolucionando nosso cotidiano, combinando criatividade e tecnologia. Elas inspiram novas possibilidades, mostrando um futuro onde humanos e máquinas criam juntos, estimulando nossa imaginação e inovação.
